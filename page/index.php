@@ -30,7 +30,7 @@
                     <div class="p-4 rounded shadow position-relative bg-white">
                         <div class="section-title">
                             <h4 class="title mb-3">Make a Donation</h4>
-                            <p class="mb-0 text-muted">Your $40.00 monthly donation can give 12 people clean water every year. 100% funds water projects.</p>
+                            <p class="mb-0 text-muted">Your ₦40.00 monthly donation can give 12 people clean water every year. 100% funds water projects.</p>
                         </div>
                         <form class="mt-4">
                             <div class="row">
@@ -69,7 +69,7 @@
                                     <label class="form-label fw-semibold">How much do you want to donate ?</label>
                                     <div class="mb-3">
                                         <div class="input-group mb-3">
-                                            <span class="input-group-text" id="basic-addon1">$</span>
+                                            <span class="input-group-text" id="basic-addon1">₦</span>
                                             <input type="number" class="form-control" min="1" max="1000" placeholder="Enter Amount" id="amount" aria-describedby="inputGroupPrepend" required="">
                                         </div>
                                     </div>
@@ -148,13 +148,13 @@
                         <div class="progress-box mt-5">
                             <div class="progress rounded" style="height: 8px;">
                                 <div class="progress-bar position-relative bg-primary rounded" style="width: 60%;">
-                                    <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of $10000</div>
+                                    <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of ₦10000</div>
                                 </div>
                             </div>
                         </div>
                         <div class="d-flex align-items-center justify-content-between mt-3">
-                            <h6 class="text-muted mb-0">$ 6000</h6>
-                            <h6 class="text-muted mb-0">$ 10000</h6>
+                            <h6 class="text-muted mb-0">₦ 6000</h6>
+                            <h6 class="text-muted mb-0">₦ 10000</h6>
                         </div>
                     </div>
                 </div>
@@ -173,13 +173,13 @@
                     <div class="progress-box mt-5">
                         <div class="progress rounded" style="height: 8px;">
                             <div class="progress-bar position-relative bg-primary rounded" style="width: 60%;">
-                                <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of $10000</div>
+                                <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of ₦10000</div>
                             </div>
                         </div>
                     </div>
                     <div class="d-flex align-items-center justify-content-between mt-3">
-                        <h6 class="text-muted mb-0">$ 6000</h6>
-                    <h6 class="text-muted mb-0">$ 10000</h6>
+                        <h6 class="text-muted mb-0">₦ 6000</h6>
+                    <h6 class="text-muted mb-0">₦ 10000</h6>
                 </div>
             </div>
         </div>
@@ -199,13 +199,13 @@
                 <div class="progress-box mt-5">
                     <div class="progress rounded" style="height: 8px;">
                         <div class="progress-bar position-relative bg-primary rounded" style="width: 60%;">
-                            <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of $10000</div>
+                            <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of ₦10000</div>
                         </div>
                     </div>
                 </div>
                 <div class="d-flex align-items-center justify-content-between mt-3">
-                    <h6 class="text-muted mb-0">$ 6000</h6>
-                    <h6 class="text-muted mb-0">$ 10000</h6>
+                    <h6 class="text-muted mb-0">₦ 6000</h6>
+                    <h6 class="text-muted mb-0">₦ 10000</h6>
                 </div>
             </div>
         </div>
@@ -225,13 +225,13 @@
                 <div class="progress-box mt-5">
                     <div class="progress rounded" style="height: 8px;">
                         <div class="progress-bar position-relative bg-primary rounded" style="width: 60%;">
-                            <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of $10000</div>
+                            <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of ₦10000</div>
                         </div>
                     </div>
                 </div>
                 <div class="d-flex align-items-center justify-content-between mt-3">
-                    <h6 class="text-muted mb-0">$ 6000</h6>
-                    <h6 class="text-muted mb-0">$ 10000</h6>
+                    <h6 class="text-muted mb-0">₦ 6000</h6>
+                    <h6 class="text-muted mb-0">₦ 10000</h6>
                 </div>
             </div>
         </div>
@@ -251,13 +251,13 @@
             <p class="text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             <div class="progress-box mt-5"><div class="progress rounded" style="height: 8px;">
                 <div class="progress-bar position-relative bg-primary rounded" style="width: 60%;">
-                    <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of $10000</div>
+                    <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of ₦10000</div>
                 </div>
             </div>
         </div>
         <div class="d-flex align-items-center justify-content-between mt-3">
-            <h6 class="text-muted mb-0">$ 6000</h6>
-            <h6 class="text-muted mb-0">$ 10000</h6>
+            <h6 class="text-muted mb-0">₦ 6000</h6>
+            <h6 class="text-muted mb-0">₦ 10000</h6>
         </div>
     </div>
 </div>
@@ -277,13 +277,13 @@
             <div class="progress-box mt-5">
                 <div class="progress rounded" style="height: 8px;">
                     <div class="progress-bar position-relative bg-primary rounded" style="width: 60%;">
-                        <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of $10000</div>
+                        <div class="progress-value d-block text-dark h6 mb-0">Raised 60% of ₦10000</div>
                     </div>
                 </div>
             </div>
             <div class="d-flex align-items-center justify-content-between mt-3">
-                <h6 class="text-muted mb-0">$ 6000</h6>
-                <h6 class="text-muted mb-0">$ 10000</h6>
+                <h6 class="text-muted mb-0">₦ 6000</h6>
+                <h6 class="text-muted mb-0">₦ 10000</h6>
             </div>
         </div>
     </div>
