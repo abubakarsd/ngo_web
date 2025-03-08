@@ -16,13 +16,13 @@ function getNavLinks() {
         "ngo_web/pages" => [
             "title" => "Explore",
             "submenu" => [
-                "ngo_web/programs" => "Our Programs",
+                "ngo_web/projects" => "Our Projects",
                 "ngo_web/resources" => "Resources"
             ]
             ],
         "ngo_web/blog" => ["title" => "Blog", "submenu" => []],
         "ngo_web/contact" => ["title" => "Contact Us", "submenu" => []],
-        // "ngo_web/ngo_web/service-detail" => ["title" => "priorities", "submenu" => []]
+        // "ngo_web/ngo_web/priorities-detail" => ["title" => "priorities", "submenu" => []]
     ];
 }
 ?>

@@ -1,4 +1,4 @@
-<section class="bg-half-170 d-table w-100" style="background-image: url(/ngo_web/static/media/1.bd50a0ff9c21319af82b.jpg); background-position: center center;">
+<section class="bg-half-170 d-table w-100" style="background-image: url(/ngo_web/static/media/448060546_441868138600167_2055804321521315145_n.jpg); background-position: center center;">
     <div class="bg-overlay bg-gradient-overlay"></div>
     <div class="container">
         <div class="row mt-5 justify-content-center">
@@ -10,7 +10,7 @@
     <div class="position-middle-bottom">
         <nav aria-label="breadcrumb" class="d-block">
             <ul class="breadcrumb breadcrumb-muted mb-0 p-0">
-                <li class="breadcrumb-item"><a href="/">TLWD</a></li>
+                <li class="breadcrumb-item"><a href="/">The Life We Deserve Foundation</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
             </ul>
         </nav>
@@ -79,8 +79,8 @@
                     </div>
                     <div class="mt-4">
                         <h5 class="mb-3">Phone</h5>
-                        <p class="text-muted">Start working with The life we deserve that can provide everything</p>
-                        <a class="text-primary" href="tel:+152534-468-854">+152 534-468-854</a>
+                        <p class="text-muted">Get in tourch with us by calling our direct line</p>
+                        <a class="text-primary contact-phone" href="#"></a>
                     </div>
                 </div>
             </div>
@@ -92,8 +92,8 @@
                     </div>
                     <div class="mt-4">
                         <h5 class="mb-3">Email</h5>
-                        <p class="text-muted">Start working with The life we deserve that can provide everything</p>
-                        <a class="text-primary" href="mailto:contact@example.com">contact@example.com</a>
+                        <p class="text-muted">Get in tourch with us by forwarding us email</p>
+                        <a class="text-primary contact-email" href="#"></a>
                     </div>
                 </div>
             </div>
@@ -105,19 +105,20 @@
                     </div>
                     <div class="mt-4">
                         <h5 class="mb-3">Location</h5>
-                        <br class="text-muted">1 Media Hooch Spaces Kabama Layout, </br> Zaria, Kaduna </p>
-                        <a class="text-primary" href="/contact">View on Google map</a>
+                        <p class="text-muted contact-address"></p>
+                        <a class="text-primary" href="#viewMap">View on Google map</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="container-fluid mt-100 mt-60">
+    <div class="container-fluid mt-100 mt-60" id="viewMap">
         <div class="row">
             <div class="col-12 p-0">
                 <div class="card map border-0">
                     <div class="card-body p-0">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.7776942640317!2d7.705265727738728!3d11.137823156081012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b28350f7692e0f%3A0x89a234065c0bdf20!2sMediahooch%20Spaces!5e0!3m2!1sen!2sng!4v1740569984999!5m2!1sen!2sng" style="border:0;" title="The life we deserve" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.7776942640317!2d7.705265727738728!3d11.137823156081012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b28350f7692e0f%3A0x89a234065c0bdf20!2sMediahooch%20Spaces!5e0!3m2!1sen!2sng!4v1740569984999!5m2!1sen!2sng" style="border:0;" title="The Life We Deserve Foundation.
+" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
